@@ -11,10 +11,10 @@
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/your-username/loan-application-forms.git
+git clone https://github.com/KhromovaNatalia/test-task-khromova
 
 # Переход в директорию проекта
-cd loan-application-forms
+cd test-task-khromova
 
 # Установка зависимостей
 npm install
